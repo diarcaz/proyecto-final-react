@@ -1,0 +1,10 @@
+/* Custom W3.CSS */
+body {font-family: "Segoe UI", Arial, sans-serif;}
+.w3-theme {color: #fff !important; background-color: #4CAF50 !important}
+.w3-text-theme {color: #4CAF50 !important}
+.w3-border-theme {border-color: #4CAF50 !important}
+
+/* Custom Colors */
+.w3-custom-color {color: #ffffff; background-color: #22ff38 !important;}
+.w3-custom-text {color: #4322ff !important;}
+.w3-custom-border {border-color: #dad8d7 !important;}
